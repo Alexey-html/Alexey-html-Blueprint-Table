@@ -1,0 +1,23 @@
+@import "~@blueprintjs/table/lib/css/table.css";
+
+
+.form-group-block {
+    margin-bottom: 50px !important;
+}
+
+.editable-input {
+    border: 1px solid #ccc;
+    padding: 0px 10px;
+    background: #fff;
+    margin: 0px 10px 10px 10px;
+}
+
+
+.message-search {
+    margin: 25px 0 0 0 !important;
+}
+
+.user-list-table {
+    max-height: 500px;
+    overflow-y: auto;
+}
